@@ -20,4 +20,4 @@ WaterMarkToolsView.h 是控制WaterMarksView中的水印样式的工具类
 在需要使用时，将这两个类照上面代码实例化即可使用，实现相应代理方法即可完成图片加水印功能
 
 
-![image](https://github.com/gdzpf123/ZPFWaterMarkView/加水印1.gifcask) 
+![image](http://www.people.com.cn/mediafile/pic/20170228/34/13095682384570832302.jpg) 
